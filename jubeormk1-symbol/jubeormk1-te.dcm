@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP V23092A1012A301
+D TE ,SPDT relay, 10A, normally verticalz
+K spdt relay
+F https://datasheet.octopart.com/V23092A1012A301-TE-Connectivity-datasheet-38190737.pdf
+$ENDCMP
+#
+#End Doc Library

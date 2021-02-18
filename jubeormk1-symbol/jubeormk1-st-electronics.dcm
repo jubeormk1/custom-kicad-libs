@@ -1,0 +1,16 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESDA6V1BC6
+F https://www.st.com/resource/en/datasheet/esda6v1bc6.pdf
+$ENDCMP
+#
+$CMP L7983PU50R
+F https://www.st.com/resource/en/datasheet/l7983.pdf
+$ENDCMP
+#
+$CMP ST715XX
+D High input voltage - 85 mA LDO linear regulator. SOT-23-5 package
+F https://www.st.com/resource/en/datasheet/st715.pdf
+$ENDCMP
+#
+#End Doc Library

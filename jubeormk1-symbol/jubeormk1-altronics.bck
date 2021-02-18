@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D_Bridge_AA-+
+D Diode bridge, +ve/-ve/AC/AC
+K rectifier ACDC
+F https://www.altronics.com.au/p/z0070-di104-400v-1a-plastic-dil-bridge-rectifier/
+$ENDCMP
+#
+$CMP JQX-13F_2CaDC12V1L
+D General Purpose Relay DPDT (2 Form C) Through Hole, Panasonic JW series
+K Panasonic Relay Dual Pole
+F http://www3.panasonic.biz/ac/e_download/control/relay/power/catalog/mech_eng_jw.pdf?via=ok
+$ENDCMP
+#
+#End Doc Library
