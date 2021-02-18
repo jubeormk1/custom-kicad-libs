@@ -1,0 +1,23 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LV14360
+F https://www.ti.com/product/LV14360?HQS=TI-null-null-octopart-df-pf-null-wwe#design-development##cad-cae-symbols
+$ENDCMP
+#
+$CMP SN74LVC1G132DBVR
+D Single2-InputNANDGate With Schmitt-TriggerInputs
+K https://www.ti.com/lit/ds/symlink/sn74lvc1g132.pdf
+F https://www.ti.com/lit/gpn/sn74lvc1g132
+$ENDCMP
+#
+$CMP TLV3012
+F https://www.ti.com/product/TLV3012
+$ENDCMP
+#
+$CMP TPS563200DCR
+D 4.5-V To 17-V Input, 2-A, 3-A Synchronous Step-Down Voltage Regulator
+K Buck
+F https://www.ti.com/product/TPS563200
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Transformer_1P_1S
+D Transformer, single primary, single secondary
+K transformer coil magnet
+F https://docs.rs-online.com/f485/0900766b815c22e1.pdf
+$ENDCMP
+#
+#End Doc Library
