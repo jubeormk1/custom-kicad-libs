@@ -1,0 +1,35 @@
+Cmp-Mod V01 Created by PcbNew   date = Tue 14 Jan 2020 16:15:42 AEDT
+
+BeginCmp
+TimeStamp = 5E1D94B9
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_4.3mm_M4_Pad_Via;
+IdModule  = MountingHole:MountingHole_4.3mm_M4_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E1D948B
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_4.3mm_M4_Pad_Via;
+IdModule  = MountingHole:MountingHole_4.3mm_M4_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E1D98D6
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_4.3x6.2mm_M4_Pad_Via;
+IdModule  = MountingHole:MountingHole_4.3x6.2mm_M4_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E1D90C6
+Path = 
+Reference = REF**;
+ValeurCmp = MountingHole_4.3x6.2mm_M4_Pad_Via;
+IdModule  = MountingHole:MountingHole_4.3x6.2mm_M4_Pad_Via;
+EndCmp
+
+EndListe
